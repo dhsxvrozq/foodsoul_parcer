@@ -1,0 +1,7 @@
+__pycache__
+.venv
+menu.json
+scraper.log
+.gitignore
+.dockerignore
+README.md
